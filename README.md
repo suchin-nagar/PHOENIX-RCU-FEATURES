@@ -17,19 +17,19 @@ https://telegram.me/phoenixrpu
 
 
 - control screen (New)
-bypass black screen of banks app (New)
-Read , Delete Internal Storage Files
-Download Any Media to your Device from Device
-Get GPS location
-Get Network Provider Location
-Get all the system information
-Shows all the installed apps in Device
-Open Any Website in Device
-Make any folder in Device
-Show any notification in Device
-Delete any File or Folder From Internal Storage
-Download SMS
-Download Contacts
+- bypass black screen of banks app (New)
+- Read , Delete Internal Storage Files
+- Download Any Media to your Device from Device
+- Get GPS location
+- Get Network Provider Location
+- Get all the system information
+- Shows all the installed apps in Device
+- Open Any Website in Device
+- Make any folder in Device
+- Show any notification in Device
+- Delete any File or Folder From Internal Storage
+- Download SMS
+- Download Contacts
 Send SMS
 Show SMS
 Record Audio
