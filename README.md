@@ -31,27 +31,27 @@ https://telegram.me/phoenixrpu
 - Delete any File or Folder From Internal Storage
 - Download SMS
 - Download Contacts
-Send SMS
-Show SMS
-Record Audio
-Record Call
-Admin Permission
-Encrypt any file in victim's device
-Lock Victims Device with 6 digit Pin Code
-Keylogger
-Capture Screenshot from background
-Capture Photo from Front and Back Camera
-Play music in Victims device
-Change Wallpaper
-Vibrate Device
-Turn On/Off Flash Light
-Text To Speach Feature
-Wipe Sdcard
-apk update admin panel
-Hide icon Android
-Call log Added
-Format Phone
-Live screen streaming
+- Send SMS
+- Show SMS
+- Record Audio
+- Record Call
+- Admin Permission
+- Encrypt any file in victim's device
+- Lock Victims Device with 6 digit Pin Code
+- Keylogger
+- Capture Screenshot from background
+- Capture Photo from Front and Back Camera
+- Play music in Victims device
+- Change Wallpaper
+- Vibrate Device
+- Turn On/Off Flash Light
+- Text To Speach Feature
+- Wipe Sdcard
+- apk update admin panel
+- Hide icon Android
+- Call log Added
+- Format Phone
+- Live screen streaming
 
 
 
